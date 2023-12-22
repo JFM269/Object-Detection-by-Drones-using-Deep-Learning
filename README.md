@@ -1,7 +1,7 @@
 # Drone-with-Object-Tracking
-- assembled a drone with camera
-- recorded video from the drone camera in real-time
-- transmitted the video capture to device using wifi
-- implement the pre-existing YOLO model(you-only-look-once) for object detection and tracking
-- the model is capable of detecting and naming multiple objects on a single video frame from a wide range of options(human, umbrella, bottle, etc)
-- coded in python using libraries like numpy, opencv, darknet.
+- Assembled a drone with camera
+- Recorded video from the drone camera in real-time
+- Transmitted the video capture to device using wifi
+- Implemented the pre-existing YOLO model(you-only-look-once) for object detection and tracking
+- The model is capable of detecting and naming multiple objects on a single video frame from a wide range of options(human, umbrella, bottle, etc)
+- Coded in Python using libraries like Numpy, OpenCV, Darknet.
