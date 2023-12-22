@@ -14,6 +14,6 @@
 -	<b>Attach the propellers:</b> Attach the propellers to the motors, making sure they are securely fastened
 -	<b>Calibrate the flight controller:</b> Follow the instructions provided with the flight controller to calibrate it, which involves setting up the quadcopter's orientation and configuring other settings.
 
-![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/b7e669a8-2c4f-45f6-9854-2d1133f9702c){ width=50% }
+![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/b7e669a8-2c4f-45f6-9854-2d1133f9702c)
 
 
