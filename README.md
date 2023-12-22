@@ -15,4 +15,5 @@
 -	<b>Calibrate the flight controller:</b> Follow the instructions provided with the flight controller to calibrate it, which involves setting up the quadcopter's orientation and configuring other settings.
 
 
-![image]((https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/4847b9d4-368b-47f6-8987-73d5bcf98975) =250x)
+
+<img src="[http://....jpg](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/4847b9d4-368b-47f6-8987-73d5bcf98975)https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/4847b9d4-368b-47f6-8987-73d5bcf98975" width="300" height="200" />
