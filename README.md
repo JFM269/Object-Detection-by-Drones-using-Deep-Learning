@@ -1,5 +1,5 @@
 # Drone-with-Object-Tracking
-- Assembled a drone with camera
+- Assembled a DM002 Remote Control Quadcopter with camera
 - Recorded video from the drone camera in real-time
 - Transmitted the video capture to device using wifi
 - Implemented the pre-existing YOLO model(you-only-look-once) for object detection and tracking
