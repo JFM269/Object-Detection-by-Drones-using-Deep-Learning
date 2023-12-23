@@ -1,4 +1,4 @@
-![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/7fe8cd2a-9a7b-4c07-9052-74c3defe83e4)# Drone-with-Object-Tracking
+# Drone with Object Tracking
 - Assembled a DM002 Remote Control Quadcopter with camera
 - Recorded video from the drone camera in real-time
 - Transmitted the video capture to device using WIFI
