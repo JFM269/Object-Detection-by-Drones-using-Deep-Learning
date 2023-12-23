@@ -1,4 +1,4 @@
-# Drone with Object Tracking
+# Drone-with-Object-Tracking
 - Assembled a DM002 Remote Control Quadcopter with camera
 - Recorded video from the drone camera in real-time
 - Transmitted the video capture to device using WIFI
