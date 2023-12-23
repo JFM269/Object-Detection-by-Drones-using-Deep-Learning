@@ -35,8 +35,9 @@ Next, we connected the camera present on the drone to a laptop using WiFi. This 
 -	<b>Launch the quadcopter app:</b> Launch the quadcopter app on the device. The app should automatically detect and connect to the quadcopter via WiFi.
 -	<b>Control the quadcopter:</b> We can see the live camera feed of the drone now from the device and can use it to control all the movement via joystick.
 
-Using WiFi UAV app as shown below, we transmitted the video footage from drone camera to laptop screen using WiFi.
+Using WiFi UAV app as shown below, we transmitted the video footage from drone camera to laptop screen using WiFi. We then performed object tracking on the footage.
 
-![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/b7e669a8-2c4f-45f6-9854-2d1133f9702c)
+![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/dd67e572-c5ba-42de-b360-828e633fbbd3)
+
 
 
