@@ -3,7 +3,7 @@
 - Recorded video from the drone camera in real-time
 - Transmitted the video capture to device using WiFi UAV app
 - Implemented the pre-existing YOLO model(you-only-look-once) and faster R-CNN for object detection and tracking
-- The model is capable of detecting and naming multiple objects on a single video frame from a wide range of options(human, umbrella, bottle, etc)
+- The model is capable of detecting and naming multiple objects on a single video frame from a wide range of options (human, umbrella, bottle, etc)
 - Coded in Python using libraries like Numpy, OpenCV, Darknet.
 
 ![image](https://github.com/JFM269/Object-Detection-by-Drones-using-Deep-Learning/assets/87769268/ca2829e6-5e75-476d-a97d-6d93f7a091d0)
